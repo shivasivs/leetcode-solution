@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
 **Name:** Shiva Sivas  
-**Roll Number:** YOUR_ROLL_NUMBER
+**Roll Number:** DCET2600466
 
 Personal LeetCode practice log — part of B25GE0101 portfolio.
 
